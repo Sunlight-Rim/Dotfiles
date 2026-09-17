@@ -1,6 +1,6 @@
 # Dotfiles
 
-My GNOME rice. Inspired by [Who23](https://github.com/Who23/dots).
+GNOME rice. Inspired by [Who23](https://github.com/Who23/dots).
 
 ![screenshot](screenshot.png)
 
